@@ -1,0 +1,5 @@
+{
+  "name": "ProPortfolio CMS",
+  "description": "A full-stack dynamic portfolio system with a built-in admin dashboard, real-time API, and MongoDB integration.",
+  "requestFramePermissions": []
+}
