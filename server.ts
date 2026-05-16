@@ -607,8 +607,8 @@ async function startServer() {
 
   app.listen(PORT, '0.0.0.0', () => {
     //console.log(`Server running on http://localhost:${PORT}`);
-    console.log(`Server running on https://my-worker-profile.vercel.app:${PORT}`);
-  });
+    console.log(`Server running on https://my-worker-profile.onrender.com:${PORT}`);
+  });                       
 }
 
 startServer();
