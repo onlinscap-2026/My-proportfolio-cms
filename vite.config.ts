@@ -19,7 +19,7 @@ export default defineConfig(({mode}) => {
       port :3002,
       proxy: {
         '/api': {
-          target: 'https://my-worker-profile.onrender.com',
+          target: 'https://my-proportfolio-cms.onrender.com',
           changeOrigin: true,
           secure: false,
         },
